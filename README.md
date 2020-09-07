@@ -27,7 +27,7 @@ chmod +x *
 bash spider.sh
 ```
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Sosmed
+[IG](https://instagram.com/Sosmed/IG/)
 
 
