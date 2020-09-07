@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://.imgur.com/uUmmWr8.png" width=500 />
+  <img src="https://i.imgur.com/S1gpCwG.png" width=500 />
 </p>
 
 ## Spider_Project
