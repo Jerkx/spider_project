@@ -28,5 +28,5 @@ bash spider.sh
 ```
 
 ## Original Script By:
-[My Instagram]
-(https://instagram.com/jerkkids/Original Script By:/My Instagram/) 
+[Instagram]
+(https://instagram.com/jerkkids/Original Script By:/Instagram/) 
