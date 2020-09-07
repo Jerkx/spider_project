@@ -27,6 +27,9 @@ chmod +x *
 bash spider.sh
 ```
 
+# ScreenShots
+![Screenshot](Screenshot.png)
+
 ## Sosmed
 [INSTAGRAM](https://instagram.com/jerkkids/Sosmed/INSTAGRAM/)
 
