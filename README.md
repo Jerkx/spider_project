@@ -8,7 +8,7 @@ pkg install git
 git clone https://github.com/Jerkx/spider_project
 cd spider_project
 chmod +x *
-./spider.sh
+bash spider.sh
 ```
 
 #How To Install On Linux
@@ -18,5 +18,5 @@ apt-get install git
 git clone https://github.com/Jerkx/spider_project
 cd spider_project
 chmod +x *
-./spider.sh
+bash spider.sh
 ```
