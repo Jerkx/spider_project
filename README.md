@@ -27,6 +27,6 @@ chmod +x *
 bash spider.sh
 ```
 
-## Original Script By:
+## Social
 [Instagram]
 (https://instagram.com/jerkkids/Original Script By:/Instagram/) 
