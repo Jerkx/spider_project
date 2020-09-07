@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://i.imgur.com/S1gpCwG.png" width=500 />
-</p>
+  <img src="https://i.imgur.com/S1gpCwG.png" width=400/>
+ </p>      
+
+
 
 ## Spider_Project
 Spider Project Adalah Tools Untuk Membuat Virus
