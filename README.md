@@ -27,6 +27,7 @@ chmod +x *
 bash spider.sh
 ```
 
-## Social
-[Instagram]
-(https://instagram.com/jerkkids/Social/Instagram/) 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
