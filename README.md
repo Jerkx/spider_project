@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://imgur.com/XugEMwZ.png" width=500 />
+  <img src="http://imgur.com/a/XugEMwZ" width=500 />
 </p>
 Spider Project Adalah Tools Untuk Membuat Virus
 
