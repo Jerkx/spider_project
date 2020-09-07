@@ -26,3 +26,7 @@ cd spider_project
 chmod +x *
 bash spider.sh
 ```
+
+## Original Script By:
+[My Instagram]
+(https://instagram.com/jerkkids/Original Script By:/My Instagram/) 
