@@ -29,4 +29,4 @@ bash spider.sh
 
 ## Social
 [Instagram]
-(https://instagram.com/jerkkids/Original Script By:/Instagram/) 
+(https://instagram.com/jerkkids/Social/Instagram/) 
