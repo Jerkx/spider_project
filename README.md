@@ -28,6 +28,6 @@ bash spider.sh
 ```
 
 ## Sosmed
-[IG](https://instagram.com/Sosmed/IG/)
+[INSTAGRAM](https://instagram.com/jerkkids/Sosmed/INSTAGRAM/)
 
 
