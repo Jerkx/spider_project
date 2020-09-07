@@ -29,5 +29,6 @@ bash spider.sh
 
 ## Sosmed
 [INSTAGRAM](https://instagram.com/jerkkids/Sosmed/INSTAGRAM/)
-
+[FACEBOOK](https://facebook.com/JerkKids/Sosmed/FACEBOOK/)
+[GITHUB](https://github.com/Jerkx/Sosmed/GITHUB/)
 
